@@ -12,7 +12,7 @@ print(my_ip)
 
 #new_socket.bind((my_host_name,port))
 
-server_hote = "secret"
+server_hote = "ip"
 
 mon_nom = input("Entrez votre nom:")
 
